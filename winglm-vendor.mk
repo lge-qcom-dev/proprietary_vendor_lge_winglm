@@ -698,10 +698,13 @@ PRODUCT_PACKAGES += \
     libcamxtintlessalgo \
     libchilog \
     libcom.qti.chinodeutils \
+    libcvp \
+    libcvp_common \
+    libcvp_stub \
+    libcvpcpuRev_skel \
     libdepthmapdecoder.arcsoft \
     libets_teeclient_v2 \
     libfilm_emulation_hal \
-    libfpsph \
     libipebpsstriping \
     liblgae_main \
     liblgawb_main \
