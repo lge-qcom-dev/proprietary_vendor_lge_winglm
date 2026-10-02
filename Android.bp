@@ -7164,7 +7164,7 @@ cc_prebuilt_library_shared {
                 "libutils",
                 "liblog",
                 "libQSEEComAPI",
-                "libets_teeclient_v2_shim",
+                "libfpsph",
                 "libion",
                 "libc++",
                 "libc",
